@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BlackPiece.qml</file>
+        <file>WhitePiece.qml</file>
+        <file>Game.qml</file>
+        <file>Main.qml</file>
+        <file>Board.qml</file>
+        <file>NewGame.qml</file>
+        <file>MainWindow.qml</file>
+        <file>PortClient.qml</file>
+        <file>PortServer.qml</file>
+        <file>SelectGame.qml</file>
+        <file>piece.js</file>
+    </qresource>
+</RCC>
